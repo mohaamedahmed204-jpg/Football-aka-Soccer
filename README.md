@@ -38,6 +38,7 @@ The program simulates sports tournament management. It takes tournament names, p
 
 ## 📂 Sample Input
 
+```text
 2
 World Cup 1998 - Group A
 4
