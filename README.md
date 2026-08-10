@@ -36,7 +36,7 @@ The program simulates sports tournament management. It takes tournament names, p
    g++ main.cpp -o solution
    ./solution
 
-## 📂 Sample Input
+## 📂 Sample Input & Output
 
 ```text
 2
